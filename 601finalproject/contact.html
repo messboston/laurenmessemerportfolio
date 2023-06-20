@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <nav class="nav">
+            <ul class="navbar">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="edu.html">Education</a></li>
+                <li><a href="resume.pdf" target="_blank">Resume</a></li>
+                <li><a class="active" href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <div class="contact-container">
+        <div class="contact-info">
+            <h2 class="contact-greeting">HOWDY</h2>
+            <h3 class="contact-subtext">let's chit-chat!</h3>
+            <p class="contact-text-1">+1 847 271 6123</p>
+            <p class="contact-text-2">Dallas, TX</p>
+        </div>
+
+        <div class="contact-form">
+            <form>
+                <label for="fname">first name</label>
+                <input type="text" id="fname" name="fname" required>
+
+                <label for="lname">last name</label>
+                <input type="text" id="lname" name="lname" required>
+
+                <label for="email">email</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="subject">subject</label>
+                <input type="text" id="subject" name="subject" required>
+
+                <label for="message">message</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <input type="submit" value="Send">
+            </form>
+        </div>
+    </div>
+    <footer>
+        <div class="footer-container">
+            <div class="footer-logo">
+                <a href="index.html"><img src="images/lmlogo.png" alt="Logo"></a>
+            </div>
+            <div class="footer-links">
+                <a href="https://github.com/laurenmessemer">GitHub</a>
+                <a href="https://www.linkedin.com/in/lauren-messemer/">LinkedIn</a>
+                <a href="https://www.instagram.com/laurenmessemer/">Instagram</a>
+            </div>
+        </div>
+    </footer>
+<script src="https://unpkg.com/vue@3.2.20/dist/vue.global.min.js"></script>
+</body>
+</html>
