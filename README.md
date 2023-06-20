@@ -34,14 +34,9 @@ The website consists of several pages:
 
 ## Usage
 
-To use the website, simply open any web browser and navigate to the corresponding URL for each page:
+To use the website, simply click on the link below!
 
-- Home: [https://www.example.com/index.html](https://www.example.com/index.html)
-- About: [https://www.example.com/about.html](https://www.example.com/about.html)
-- Skills: [https://www.example.com/skills.html](https://www.example.com/skills.html)
-- Education: [https://www.example.com/edu.html](https://www.example.com/edu.html)
-- Resume: [https://www.example.com/resume.pdf](https://www.example.com/resume.pdf)
-- Contact: [https://www.example.com/contact.html](https://www.example.com/contact.html)
+[https://64914b382348aa7db4ce60a9--steady-otter-8de889.netlify.app/index.html](https://64914b382348aa7db4ce60a9--steady-otter-8de889.netlify.app/index.html)
 
 ## Technologies
 
