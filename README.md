@@ -2,6 +2,8 @@
 
 This is my personal portfolio website, showcasing my skills, education, projects, and contact information.
 
+[![Video Walkthrough](https://youtu.be/nTQUwghvy5Q](https://youtu.be/nNdtNlS0wEk))
+
 ## Table of Contents
 
 - [Description](#description)
