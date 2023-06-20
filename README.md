@@ -18,7 +18,7 @@ The Lauren Messemer Portfolio Website serves as an online presence for me to sho
 The website consists of several pages:
 
 - Home (index.html): The landing page featuring a hero section with a brief introduction and a navigation menu.
-- About (about.html): A page providing more details about Lauren Messemer, including her background and interests.
+- About (about.html): A page providing more details about me, including my background and interests.
 - Skills (skills.html): An overview of my technical skills and areas of expertise.
 - Education (edu.html): Information about my education and academic qualifications.
 - Resume (resume.pdf): A downloadable PDF version of my resume.
